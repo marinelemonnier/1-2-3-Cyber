@@ -238,4 +238,321 @@ l'aide peut être apportée via le site www.cybermalveillance.gouv.fr
 > __Il est désormais temps de se dire au revoir, tout en demandant une dernière fois s'il reste aux joueurs des questions ou des remarques sur cette séance et sur la cybersécurité plus largement.__
 
 
+------
 
+## Mots à débriefer
+
+<table>
+    <thead>
+        <tr>
+            <th align="center"> QUESTIONS </th>
+            <th align="center"> BONNES PRATIQUES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Ici se trouvent les questions qui vous permettront d'initier les échanfes avec les enfants, voir les relancer lorsque ceux-ci s'épuisent.</td>
+            <td align="center">Ici se trouvent les messages clés à faire passer aux participants durant la session de jeu. L'idéal est, grâce aux questions, de les faire atterrir naturellement sur celles-ci.</td>
+        </tr>
+    </tbody>
+</table>
+
+## Ami virtuel
+
+<table>
+    <thead>
+        <tr>
+            <th align="center">    QUESTIONS    </th>
+            <th align="center"> BONNES PRATIQUES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Est-ce que via vos réseaux sociaux, des jeux en ligne, des forums, vous êtes amenés à discuter en ligne ? Avec qui ?</td>
+            <td align="center">Sur Internet, il est difficile de concrètement savoir qui se cache derrière vos amis virtuels (derrière des pseudonymes, des avatars, etc.)</td>
+        </tr>
+        <tr>
+            <td align="center">Est-ce que vous discutez parfois avec des gens que vous n'avez jamais rencontré dans la vrai vie, des amis virtuels ?</td>
+            <td align="center">Ne partagez aucune donnée privée sur vous ou sur votre famille avec un inconnu. N’acceptez pas de rendezvous dans la vraie vie d’inconnus rencontrés sur Internet.</td>
+        </tr>
+        <tr>
+            <td align="center"> Qu'est-ce que vous partagez avec eux ? Quelles données ?</td>
+             <td align="center"> En cas de doute sur l’identité de vos amis virtuels et/ou sur le type de discussion(s) que vous entretenez, n’hésitez pas à en discuter avec vos parents ou un tiers de confiance (professeurs, CPE, oncles et tantes, grands-parents, fratrie, etc.).</td>
+        </tr>
+        <tr>
+            <td align="center">Est-ce qu'un inconnu vous a déjà demandé des informations qui vous ont paru louches ? </td>
+        </tr>
+        <tr>
+            <td align="center"> Est-ce qu'un inconnu vous a déjà proposé de vous rencontrer dans la vrai vie ?</td>
+        </tr>
+        <tr>
+            <td align="center"> Comment réagissez-vous dans ces cas-là ? Comment réagir ?</td>
+        </tr>
+    </tbody>
+</table>
+
+## Cyber-harcèlement
+
+<table>
+    <thead>
+        <tr>
+            <th align="center">    QUESTIONS    </th>
+            <th align="center"> BONNES PRATIQUES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Qu’est-ce que le cyberharcèlement ? Quelles en sont les conséquences et les dérives selon vous ?</td>
+            <td align="center">Le cyberharcèlement est un effet de groupe visant à nuire (insultes, moqueries, agression, etc.), et ce à l'encontre d'une personne souvent isolée, via les canaux numériques et dans la durée.</td>
+        </tr>
+        <tr>
+            <td align="center">Est-ce que vous avez déjà été impliqué(e) ou témoin d’une situation de cyberharcèlement (auteur, victime) ? Si oui, comment avez-vous réagi ?</td>
+            <td align="center">Ne participez en aucun cas au mouvement de cyberharcèlement car cela peut s’avérer très dangereux ! Il peut provoquer suicide, anxiété, déscolarisation, replis sur soi, exclusion, dépression, etc.</td>
+        </tr>
+        <tr>
+            <td align="center"> Quelle attitude devrait-on adopter lorsque l’on est témoin de cyberharcèlement ?</td>
+             <td align="center"> Si vous êtes victime, ou témoin d’une situation de cyberharcèlement, n’hésitez pas à le signaler, et/ou à en discuter avec quelqu’un de confiance (parents, professeurs, CPE, oncles et tantes, grands-parents, fratrie, etc.). La plateforme NetEcoute permet aussi de se confier et de signaler ses problèmes.</td>
+        </tr>
+        <tr>
+            <td align="center">Quelle attitude devrait-on adopter lorsque l’on est victime de cyberharcèlement ? Pensez-vous modifier certains de vos comportements en ligne suite à notre discussion ? Si oui, lesquels ?</td>
+        </tr>
+    </tbody>
+</table>
+
+## Hameçonnage
+
+<table>
+    <thead>
+        <tr>
+            <th align="center">    QUESTIONS    </th>
+            <th align="center"> BONNES PRATIQUES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Est-ce que vous avez déjà reçu un mail d’une adresse inconnue avec du contenu bizarre ?</td>
+            <td align="center">Des attaquants peuvent utiliser la toile afin de vous tendre des pièges . Que ce soit par mail, SMS ou tchat, il faut rester vigilant lorsque l’on reçoit un message invitant à cliquer sur un lien</td>
+        </tr>
+        <tr>
+            <td align="center">Avez-vous reçu des demandes pour compléter vos données ou informations personnelles ?</td>
+            <td align="center">Pour déceler les pièges, prêtez attention entre autres aux points suivants : l’adresse de l’émetteur, le contenu, la structure du lien si lieu est (en cas de doute, cherchez l’organisme sur un moteur de recherche, utilisez l’adresse obtenue et vérifiez si sa structure correspond à celle reçue).</td>
+        </tr>
+        <tr>
+            <td align="center"> Avez-vous reçu un mail paraissant légitime (incluant logo qu’on reconnait) et qui vous renvoyait, in fine, à une page de destination bizarre ?</td>
+             <td align="center"> Quoi qu’il en soit, n’ouvrez pas de pièces jointes et ne cliquez pas sur des liens contenus dans des mails provenant d’un inconnu et/ou qui vous paraissent douteux (fautes d’orthographe, cadeaux exceptionnels, etc.). Cela peut mener à des arnaques, à des fraudes et à des virus qui viendront bloquer votre appareil électronique.</td>
+        </tr>
+        <tr>
+            <td align="center"> </td>
+            <td align="center">Si vous vous êtes fait piéger, ne cherchez pas à le cacher : parlez-en avec vos parents ou un tiers de confiance (professeurs, CPE, oncles et tantes, grands-parents, fratrie, etc).</td>
+        </tr>
+    </tbody>
+</table>
+
+## Challenge
+
+<table>
+    <thead>
+        <tr>
+            <th align="center">    QUESTIONS    </th>
+            <th align="center"> BONNES PRATIQUES</th>
+            <th align="center"> EXEMPLES DE CHALLENGES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Est-ce que vous avez déjà entendu parler d’un challenge circulant sur la toile ? Est-ce que vous avez déjà entendu parler du «Blue whale challenge » ou du défi de la cannelle ? Qu’est-ce que c’est ?</td>
+            <td align="center">Les challenges, ou défis en ligne, sont une pratique très répandue. Récemment deux cas concrets de challenge sévissent en ligne (cf. encadré).</td>
+            <td align="center">Le « Blue Whale Challenge »: Un « tuteur » rentre en communication avec un internaute et lui lance une série de défis que celui-ci doit relever. Il a ainsi un défi à réaliser par jour (du plus simple, de type dessiner une baleine bleue sur une feuille, jusqu’à des défis pouvant mettre en péril sa santé). Le joueur doit ensuite poster la preuve de la réalisation du défi sur les réseaux sociaux.
+        </tr>
+        <tr>
+            <td align="center">Vous a-t-on déjà poussé à participer à ce type de challenge ? Comment avez-vous réagi ?</td>
+            <td align="center">Si jamais un inconnu vous aborde en ligne, ou même une connaissance voire un ami et vous demande de relever des défis de ce type, le premier réflexe à avoir est d’en discuter avec quelqu’un de confiance (parents, professeurs, CPE, oncles et tantes, grands-parents, fratrie, etc).</td>
+            <td align="center">Le défi de la cannelle : Il est demandé au participant d’ingurgiter une cuillère à soupe, voire plus, de cannelle en poudre, se filmer et poster la vidéo sur les réseaux sociaux. Ce type de défi se propage rapidement car, une fois la vidéo publiée, le joueur peut nommer 3 personnes qui devront relever le défi et ainsi de suite. Ce défi est dangereux car il peut mener à des étouffements.</td>
+        </tr>
+    </tbody>
+</table>
+
+## Chantage 
+
+<table>
+    <thead>
+        <tr>
+            <th align="center">    QUESTIONS    </th>
+            <th align="center"> BONNES PRATIQUES</th>
+            <th align="center"> CAS DE CHANTAGE</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Est-ce que vous avez déjà été victime de chantage en ligne ? Qu’est-ce que peut être le chantage en ligne ?</td>
+            <td align="center">Un internaute malintentionné, peut rentrer en contact avec vous et vous demander certaines données (type données bancaires pour faire des achats), voire vous demander de relever des défis (du plus simple au plus tordu). Si vous ne répondez pas positivement à ses demandes, celuici vous menace de dévoiler des informations privées à votre propos, vos secrets par exemple (les communiquer à vos contacts Instagram, par mail ou à vos parents).</td>
+            <td align="center">Le chantage à la webcam : Un internaute malintentionné menace sa victime de dévoiler des images compromettantes de lui, prises à son insu via sa webcam si celui-ci ne communique pas des données bancaires ou ne paye pas une rançon en ligne. Au-delà des bonnes pratiques générales, il est important de toujours garder un cache sur la webcam lorsque celle-ci est inutilisée.
+        </tr>
+        <tr>
+            <td align="center">Est-ce que vous avez déjà entendu parler du Momo Challenge ? Du chantage à la webcam ?</td>
+            <td align="center">Si jamais vous êtes victime de ce genre de pratiques, ne répondez pas, ne payez rien, conservez les preuves (captures d’écran, mails, etc.), et trouvez de l'assistance sur le site www.cybermalveillance.gouv.fr.</td>
+            <td align="center">Le Momo challenge : Celui-ci consiste à rentrer en contact avec un interlocuteur anonyme : « momo » sur les réseaux sociaux. Cet interlocuteur menace ensuite ses victimes de dévoiler des informations personnelles si ceux-ci refusent de se soumettre à une série de défis, souvent violents.</td>
+        </tr>
+        <tr>
+            <td align="center">Comment est-ce que vous réagiriez si vous étiez victime de chantage en ligne ?</td>
+            <td align="center">Surtout, parlez-en avec vos parents ou un tiers de confiance (professeurs, CPE, oncles et tantes, grands-parents, fratrie, etc.</td>
+        </tr>
+    </tbody>
+</table>
+
+## Vie privée
+
+<table>
+    <thead>
+        <tr>
+            <th align="center">    QUESTIONS    </th>
+            <th align="center"> BONNES PRATIQUES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Qu'est-ce que la vie privée pour vous ? Est-ce que vous vous êtes déjà retrouvé(e) dans des situations que vous avez jugé "intrusives" ? Si oui, lesquelles ?</td>
+            <td align="center">Afin de conserver votre vie privée sur Internet, quelques bonnes pratiques à adopter :</td>
+        </tr>
+        <tr>
+            <td align="center">Que faites-vous sur la toile pour protéger votre vie privée ? </td>
+            <td align="center">Par défaut, ce que vous publiez sur les réseaux sociaux est accessible à tout le monde : vérifiez bien les paramètres de "confidentialité" ou "sécurité" et réglez-les pour être sûr que seuls vos amis ont accès à vos données.</td>
+        </tr>
+        <tr>
+            <td align="center"> Quelles données évitez-vous de partager sur la toile ? Qu'est-ce qu'une donnée personnelle ? </td>
+             <td align="center"> Réfléchissez méticuleusement aux données que vous partagez sur Internet : âge, données bancaires (les vôtre ou celles de vos parents), adresse postale, opinions politiques, religieuses, etc.</td>
+        </tr>
+        <tr>
+            <td align="center">Est-ce que dans la vraie vie, vous les dévoilez facilement et pourquoi ? Est-ce que vous en partagez certaines en ligne N Via quels canaux ?</td>
+            <td align="center">Désactivez la géolocalisation lorsque vous prenez des photos. Lorsque vous postez une photo en ligne, celle-ci compte ce que nous appelons des "métadonnées" dont votre géolocalisation ! Cela signifie que toute personne ayant accès aux photos publiées peut savoir où la photo a été prise et donc où vous vous trouvez à un instant T. Très pratique pour un cambrioleur pour savoir si vous êtes chez vous par exemple.</td>
+        </tr>
+        <tr>
+            <td align="center">Savez-vous qu'est-ce que la géolocalisation ? Est-ce une donnée sensible selon vous ? Pourquoi ? Avez-vous des exemples d'application qui utilisent votre géolocalisation ?</td>
+            <td align="center">Il est important de garder en tête qu'Internet à la mémoire longue ! Tout ce que vous postez aujourd'hui alimente ce que l'on appelle votre e-reputation et pourra impacter votre futur. Ainsi, réfléchissez bien à deux fois avant de publier du contenu.</td>
+        </tr>
+    </tbody>
+</table>
+
+
+## Fake news
+
+<table>
+    <thead>
+        <tr>
+            <th align="center">    QUESTIONS    </th>
+            <th align="center"> BONNES PRATIQUES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Est-ce qu'il est possible de trouver des fausses informations sur Internet ?</td>
+            <td align="center">De fausses informations circulent sur Internet... Bien sûr puisque n'importe qui peut y poster ce qu'il souhaite !</td>
+        </tr>
+        <tr>
+            <td align="center">Cela vous est-il déjà arrivé ? Comment vous en êtes-vous rendu compte ?</td>
+            <td align="center">Avant de relayer des informations, ou avant d'utiliser du contenu (pour des exposés par exemple), il est important de vérifier et croiser les informations que vous trouvez sur Internet. En cas de doute, n'hésitez pas à en parler avec vos parents ou un tiers de confiance (professeurs, CPE, oncles et tantes, grands-parents, fratrie, etc.)</td>
+        </tr>
+        <tr>
+            <td align="center"> Pour vos exposés, comment vérifiez vous les informations que vous trouvez sur Internet ? </td>
+        </tr>
+        <tr>
+            <td align="center">Plus largement, comment peut-on vérifier si une information est correcte ou non ?</td>
+        </tr>
+    </tbody>
+</table>
+
+## Mot de passe
+
+<table>
+    <thead>
+        <tr>
+            <th align="center">    QUESTIONS    </th>
+            <th align="center"> BONNES PRATIQUES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Sur quels réseaux sociaux avez-vous un compte ?</td>
+            <td align="center">Les mots de passe protègent l’accès à vos comptes et donc à vos données : ils doivent rester secrets si vous ne souhaitez pas que des personnes mal intentionnées usurpent votre identité ou volent vos informations.</td>
+        </tr>
+        <tr>
+            <td align="center">Comment choisissez-vous votre mot de passe ?</td>
+            <td align="center">Il faut choisir des mots de passe à la fois compliqués à deviner pour les autres et faciles à retenir pour vous.</td>
+        </tr>
+        <tr>
+            <td align="center"> Est-ce que vous utilisez le même mot de passe pour chacun de vos comptes ? </td>
+            <td align="center">Avoir un mot de passe différent par site ou application réduit aussi les risques de se faire voler ses mots de passe.
+        </tr>
+        <tr>
+            <td align="center">Est-ce que vous avez déjà donné votre mot de passe à un ami ?</td>
+            <td align="center">Ne les partagez pas et ne les écrivez pas sur un papier. Enfin, changez de mot de passe régulièrement, par précaution.</td>
+        </tr>
+        <tr>
+            <td align="center"> </td>
+            <td align="center">Restez particulièrement vigilant pour le mot de passe de votre adresse mail. Si celui-ci est compromis, cela permettrait aux hackers de réinitialiser vos mots de passe sur vos différents comptes et d’accéder aux sites sur lesquels vous êtes inscrits</td>
+        </tr>
+    </tbody>
+</table>
+
+## Signalement
+
+<table>
+    <thead>
+        <tr>
+            <th align="center">    QUESTIONS    </th>
+            <th align="center"> BONNES PRATIQUES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Avez-vous déjà été confronté sur Internet à une photo / une vidéo qui vous a mis mal à l’aise ?</td>
+            <td align="center">Sur Internet, vous pouvez être confronté(e), sans le vouloir, à du contenu choquant. Si cela vous arrive, vous pouvez signaler le contenu : directement sur le site si possible (Facebook, Instagram, etc.) ou via la plateforme de signalement PHAROS (www.internet-signalement.gouv.fr).</td>
+        </tr>
+        <tr>
+            <td align="center">Si oui, lesquels et pourquoi ?</td>
+            <td align="center">Si un contenu vous a choqué, il est important de ne pas se sentir gêné d’en discuter avec un tiers de confiance (professeurs, CPE, oncles et tantes, parents, grands-parents, fratrie, etc).</td>
+        </tr>
+        <tr>
+            <td align="center"> Comment avez-vous réagi ?</td>
+             <td align="center">De même, sur Internet, vous disposez d’un droit sur les photos où vous êtes identifiable ! Ainsi, si une photo de vous circule et vous dérange, n’hésitez pas à signaler le contenu et / ou à en discuter avec vos parents ou tout autre personne de confiance.</td>
+        </tr>
+        <tr>
+            <td align="center">Est-ce qu’une photo de vous qui ne vous plaisait pas a déjà circulé sur la toile ?</td>
+        </tr>
+        <tr>
+            <td align="center">Que pourrait-on faire dans ces cas-là ?</td>
+        </tr>
+    </tbody>
+</table>
+
+## Cellule d'écoute
+
+<table>
+    <thead>
+        <tr>
+            <th align="center">    QUESTIONS    </th>
+            <th align="center"> BONNES PRATIQUES</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Si l'une des situations précédemment évoquées vous arrivait, à qui est-ce que vous en parleriez ?</td>
+            <td align="center">Il est important déchanger sur nos expériences d'Internet ! </td>
+        </tr>
+        <tr>
+            <td align="center"></td>
+            <td align="center">Si jamais vous êtes victime, témoin ou acteur de l'une des situations précédemment évoquées, il faut en discuter !</td>
+        </tr>
+        <tr>
+            <td align="center"> </td>
+             <td align="center">Si vous ne souhaitez pas en discuter avec vos proches, il est possible d'appeler le numéro qui est inscrit sur votre livret. Vous pourrez en parler en tout anonymat et recevoir des conseils.</td>
+        </tr>
+    </tbody>
+</table>
+
+-------
+Copyright (c) 2019 – CCJ –Wavestone
+L'autorisation est accordée, gracieusement, à toute personne acquérant une copie de ce Jeu et des fichiers de documentation associés (le « Jeu »), de commercialiser le Jeu sans restriction, notamment les droits d'utiliser, de copier, de modifier, de fusionner, de publier, de distribuer, de sous-licencier et / ou de vendre des copies du Jeu, ainsi que d'autoriser les personnes auxquelles le Jeu est fournie à le faire, sous réserve des conditions suivantes :
+La déclaration de copyright ci-dessus et la présente autorisation doivent être incluses dans toutes copies ou parties substantielles du Jeu.
+
+LE JEU EST FOURNI « TEL QUEL », SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, NOTAMMENT SANS GARANTIE DE QUALITÉ MARCHANDE, D’ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS, LES AUTEURS OU TITULAIRES DU DROIT D'AUTEUR NE SERONT RESPONSABLES DE TOUT DOMMAGE, RÉCLAMATION OU AUTRE RESPONSABILITÉ, QUE CE SOIT DANS LE CADRE D'UN CONTRAT, D'UN DÉLIT OU AUTRE, EN PROVENANCE DE, CONSÉCUTIF À OU EN RELATION AVEC LE JEU OU SON UTILISATION, OU AVEC D'AUTRES ÉLÉMENTS DU JEU.
